@@ -2,10 +2,13 @@
 
 The repository contains all the necessary files for CSE3018 - Content Based Image and Video Retrieval
 
-<b>Team Members:</b>
+<b>Team Members:</b><br>
 Naga Harshith Bezawada - 19BCE1547
-Jessenth Ebenezer S - 19BCE1462
-Tejas V - 19BCE1607
+<br>Jessenth Ebenezer S - 19BCE1462
+<br>Tejas V - 19BCE1607
+
+<b>Video Demonstration Google Drive Line</b>
+https://drive.google.com/file/d/1ZbHFbHPjKhZzwgultOjdXruxv5BoEm59/view?usp=sharing
 
 <b>Steps to run the CBIR System:</b>
 
