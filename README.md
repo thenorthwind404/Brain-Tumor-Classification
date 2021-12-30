@@ -16,4 +16,3 @@ https://drive.google.com/file/d/1ZbHFbHPjKhZzwgultOjdXruxv5BoEm59/view?usp=shari
 2. Execute BrainMRI_GUI.m
 4. Press load image and choose any image from testing dataset.
 5. Click segment image button to view the values of all features and the result of SVM Classfier.
-6. Upload MRI image and click Segment Image.
